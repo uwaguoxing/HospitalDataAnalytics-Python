@@ -1,0 +1,17 @@
+country:australia, hospital_id: e9bebd37bfee7bb, Covid: 2942, Stroke: 2492, Cancer: 4826
+country:australia, hospital_id: 6f8e7fe3ccfcb7c, Covid: 2725, Stroke: 2473, Cancer: 1399
+country:australia, hospital_id: 4d17fa0d985e0d7, Covid: 1085, Stroke: 1889, Cancer: 4847
+country:australia, hospital_id: 6be8a1ef720fd32, Covid: 238, Stroke: 2778, Cancer: 2459
+country:australia, hospital_id: 4ded9e3ff968e7c, Covid: 3236, Stroke: 3379, Cancer: 248
+country:australia, hospital_id: bbb5ab4b0aad7a3, Covid: 1134, Stroke: 2067, Cancer: 2589
+country:australia, hospital_id: a5ffb6afd24d2eb, Covid: 433, Stroke: 2006, Cancer: 341
+country:australia, hospital_id: ad103986bdbe6ad, Covid: 1944, Stroke: 2523, Cancer: 2990
+country:austria, hospital_id: 9f63c73be6a39e9, Covid: 4582, Stroke: 442, Cancer: 3134
+country:austria, hospital_id: ccd85e8579f9c7e, Covid: 3801, Stroke: 581, Cancer: 3570
+country:austria, hospital_id: 5022c998edeada1, Covid: 2423, Stroke: 4336, Cancer: 1183
+country:austria, hospital_id: eb1f0a485ff5c50, Covid: 2030, Stroke: 3044, Cancer: 881
+country:austria, hospital_id: 0de4671f41341d6, Covid: 249, Stroke: 232, Cancer: 2095
+country:austria, hospital_id: 90bbf5c6d616dbf, Covid: 4793, Stroke: 2265, Cancer: 1345
+country:bahamas, hospital_id: ea8a779bec3c8ff, Covid: 2760, Stroke: 4741, Cancer: 4289
+country:bahamas, hospital_id: ba404ddd2ad309a, Covid: 2018, Stroke: 682, Cancer: 4955
+country:bahamas, hospital_id: 2eaa3c5d6cc37b9, Covid: 292, Stroke: 2585, Cancer: 4803
